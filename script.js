@@ -1,4 +1,6 @@
-// Author:
+// Author: Jordan Muturi
+
+//https://teachablemachine.withgoogle.com/models/SHdPrzu9z/
 
 // Global UI Variables
 let canvasDiv;
